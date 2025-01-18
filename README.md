@@ -7,7 +7,7 @@
 ### Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born. Here are Ghanian day names.
 
 # Author information
-### Godfrey Agunga
+### Omondi
 
 # Setup instructions 
 URL : https://agnunga.github.io/akan-name/
@@ -18,9 +18,9 @@ URL : https://agnunga.github.io/akan-name/
 ### html
 
 # Contact information.
-### agunga3d@gmail.com
+### yolojeya@gmail.com
 
 # Copyright
-### (c) agunga3d
+### (c) omosh
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
